@@ -1,8 +1,7 @@
 # PersistenceDAO
 PersistenceDAO with PHP: Example 2 of V2
-# Proyecto de Consulta de Equipos y Partidos
 
-Consulta de Equipos y Partidos
+# Proyecto de Consulta de Equipos y Partidos
 Este proyecto es una aplicación web que te permite consultar información sobre equipos y partidos en una competición. Lo importante de este proyecto no es la interfaz, sino el código que se encuentra detrás, incluyendo la conexión a la base de datos y el acceso a los datos desde la vista hasta la base de datos y viceversa.
 
 ## Enunciado
