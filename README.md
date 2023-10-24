@@ -39,8 +39,6 @@ El entregable es el ZIP con el proyecto PHP o un acceso a un repositorio GITHUB.
 - │   ├── partidos.php             # Vista para mostrar resultados de partidos
 - ├── competitcion/                # Base de Datos
 ## Uso
-
-Uso
 -Para utilizar este proyecto, sigue estos pasos:
 -Clona este repositorio en tu entorno de desarrollo local. Puedes hacerlo ejecutando el siguiente comando en tu terminal:
 
@@ -55,6 +53,13 @@ Uso
 ```http://localhost/TuProyecto/index.php```
 -Asegúrate de reemplazar TuProyecto con la ubicación de la carpeta del proyecto en tu servidor local.
 -Interactúa con la aplicación. Una vez que la aplicación esté en funcionamiento, podrás utilizarla para consultar información sobre equipos y partidos en la competición.
+
+## Imagenes de USO
+![1](https://github.com/xxSTUX/PersistenceDAO/assets/59065393/cbf8d694-1679-47d2-83c6-5cc24fd9a452)
+![2](https://github.com/xxSTUX/PersistenceDAO/assets/59065393/12b2a7e8-60a1-4f0d-aa68-e132cad27700)
+![3](https://github.com/xxSTUX/PersistenceDAO/assets/59065393/a4f8e7a8-4daf-4f9b-a199-3b8f778f0d68)
+
+
 
 ## Licencia
 
