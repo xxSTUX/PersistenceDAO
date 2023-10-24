@@ -36,7 +36,7 @@ El entregable es el ZIP con el proyecto PHP o un acceso a un repositorio GITHUB.
 - ├── views/                       # Vistas de la página
 - │   ├── equipos.php              # Vista para mostrar información de equipos
 - │   ├── partidos.php             # Vista para mostrar resultados de partidos
-- ├── competitcion/                # Base de Datos
+- ├── competicion/                # Base de Datos
 ## Uso
 -Para utilizar este proyecto, sigue estos pasos:
 -Clona este repositorio en tu entorno de desarrollo local. Puedes hacerlo ejecutando el siguiente comando en tu terminal:
